@@ -1,14 +1,15 @@
-<h1 align='center'>Weather App</h1>
+<h1 align='center'>Weathereader</h1>
 <p align='center'>
-Responsive Weather App with DarkMode <br>using NodeJS and TailwindCSS. <br>
 <a href="https://santiagocodes-weather-app.herokuapp.com/"><img src="https://img.shields.io/badge/DEMO-Weathereader-9cf.svg?style=flat"></a>
 </p>
 
-[![Weather-App video](https://i.postimg.cc/Z5JZ3pSv/weather-app-pic.png)](https://www.dropbox.com/s/by17ivtn9okk6be/weatherNode.mp4?dl=0)
+[![Weather-App video](https://github.com/minhtran241/weathereader/blob/main/public/img/light.png?raw=true)](https://www.dropbox.com/s/by17ivtn9okk6be/weatherNode.mp4?dl=0)
+[![Weather-App video](https://github.com/minhtran241/weathereader/blob/main/public/img/dark.png?raw=true)](https://www.dropbox.com/s/by17ivtn9okk6be/weatherNode.mp4?dl=0)
 
-<img height="75px" align='left' src="https://santiagocodes.github.io/santiagocodes/images/octocat-santiagocodes.png" alt="santiagocodes octocat" />
+<img height="75px" align='left' src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/025_support_live_chat_online_messages_help_service-512.png" alt="santiagocodes octocat" />
 
 ## Initial Setup
+📲
 
 1. [Clone](https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) the repository.
 
