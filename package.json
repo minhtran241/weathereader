@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node src/app.js",
+		"dev": "nodemon src/app.js -e js,hbs"
 	},
 	"keywords": [],
 	"author": "",
@@ -13,7 +14,9 @@
 		"dotenv": "^16.0.1",
 		"express": "^4.16.4",
 		"hbs": "^4.0.1",
-		"nodemon": "^2.0.16",
 		"postman-request": "^2.88.1-postman.31"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
 	}
 }
