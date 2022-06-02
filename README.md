@@ -22,7 +22,7 @@
 -   On Git Bash navigate to the cloned directory by typing `cd weather-app-node` and press `enter`.
 -   Install dependencies by typing `npm i` or `npm install` and press `enter`.
 
-## Scripts you can run in your terminal within this app...
+## Scripts
 
 `npm run start`
 
